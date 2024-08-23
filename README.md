@@ -1,2 +1,2 @@
 # Web-Browser
-C# WPF Web Browser Application
+C# WPF Web Browser Application for University
